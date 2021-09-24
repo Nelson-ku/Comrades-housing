@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import *
+from .models import Customer,Product,Order,OrderItem,ShippingAddress
 
 # Register your models here.
 #every model has to be registered
